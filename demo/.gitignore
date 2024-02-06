@@ -1,0 +1,8 @@
+documents/*
+!documents/.gitkeep
+
+public/*.*
+!public/.gitkeep
+
+
+
