@@ -48,7 +48,8 @@ python3 ingest.py
 Start the UI:
 
 ```shell
-ollama download mistral
+ollama pull mistral
+ollama serve mistral
 chainlit run --debug app.py
 ```
 
